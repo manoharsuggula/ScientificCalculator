@@ -38,3 +38,43 @@
 21/03/2023:18:24:44 909 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POWER] - 81.0
 21/03/2023:18:24:44 910 [ScientificCalculator.java] [INFO] ScientificCalculator [POWER] - 10.0, 2.0
 21/03/2023:18:24:44 911 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POWER] - 100.0
+21/03/2023:19:51:15 601 [ScientificCalculator.java] [INFO] ScientificCalculator [FACTORIAL] - 0
+21/03/2023:19:51:15 608 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACTORIAL] - 1
+21/03/2023:19:51:15 612 [ScientificCalculator.java] [INFO] ScientificCalculator [FACTORIAL] - 1
+21/03/2023:19:51:15 612 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACTORIAL] - 1
+21/03/2023:19:51:15 614 [ScientificCalculator.java] [INFO] ScientificCalculator [FACTORIAL] - 3
+21/03/2023:19:51:15 614 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACTORIAL] - 6
+21/03/2023:19:51:15 615 [ScientificCalculator.java] [INFO] ScientificCalculator [FACTORIAL] - 4
+21/03/2023:19:51:15 615 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACTORIAL] - 24
+21/03/2023:19:51:15 616 [ScientificCalculator.java] [INFO] ScientificCalculator [FACTORIAL] - 6
+21/03/2023:19:51:15 617 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACTORIAL] - 720
+21/03/2023:19:51:15 621 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 4.0
+21/03/2023:19:51:15 622 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 2.0
+21/03/2023:19:51:15 623 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 9.0
+21/03/2023:19:51:15 623 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 3.0
+21/03/2023:19:51:15 624 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 16.0
+21/03/2023:19:51:15 624 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 4.0
+21/03/2023:19:51:15 625 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 25.0
+21/03/2023:19:51:15 626 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 5.0
+21/03/2023:19:51:15 626 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 36.0
+21/03/2023:19:51:15 627 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 6.0
+21/03/2023:19:51:15 637 [ScientificCalculator.java] [INFO] ScientificCalculator [POWER] - 2.0, 2.0
+21/03/2023:19:51:15 638 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POWER] - 4.0
+21/03/2023:19:51:15 638 [ScientificCalculator.java] [INFO] ScientificCalculator [POWER] - 2.0, 3.0
+21/03/2023:19:51:15 639 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POWER] - 8.0
+21/03/2023:19:51:15 640 [ScientificCalculator.java] [INFO] ScientificCalculator [POWER] - 3.0, 2.0
+21/03/2023:19:51:15 640 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POWER] - 9.0
+21/03/2023:19:51:15 640 [ScientificCalculator.java] [INFO] ScientificCalculator [POWER] - 3.0, 4.0
+21/03/2023:19:51:15 641 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POWER] - 81.0
+21/03/2023:19:51:15 641 [ScientificCalculator.java] [INFO] ScientificCalculator [POWER] - 10.0, 2.0
+21/03/2023:19:51:15 642 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POWER] - 100.0
+21/03/2023:19:51:15 643 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 2.718281828459045
+21/03/2023:19:51:15 644 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 1.0
+21/03/2023:19:51:15 644 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 1.0
+21/03/2023:19:51:15 645 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 0.0
+21/03/2023:19:51:15 645 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 2.0
+21/03/2023:19:51:15 646 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 0.6931471805599453
+21/03/2023:19:51:15 646 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 4.0
+21/03/2023:19:51:15 646 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 1.3862943611198906
+21/03/2023:19:51:15 647 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 10.0
+21/03/2023:19:51:15 647 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 2.302585092994046
