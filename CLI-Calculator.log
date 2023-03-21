@@ -1,0 +1,40 @@
+21/Mar/2023:15:40:24 057 [ScientificCalculator.java] [INFO] ScientificCalculator [POWER] - 2.0, 2.0
+21/Mar/2023:15:40:24 119 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POWER] - 4.0
+21/Mar/2023:15:40:24 124 [ScientificCalculator.java] [INFO] ScientificCalculator [POWER] - 2.0, 3.0
+21/Mar/2023:15:40:24 125 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POWER] - 8.0
+21/Mar/2023:15:40:24 126 [ScientificCalculator.java] [INFO] ScientificCalculator [POWER] - 3.0, 2.0
+21/Mar/2023:15:40:24 127 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POWER] - 9.0
+21/Mar/2023:15:40:24 128 [ScientificCalculator.java] [INFO] ScientificCalculator [POWER] - 3.0, 4.0
+21/Mar/2023:15:40:24 129 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POWER] - 81.0
+21/Mar/2023:15:40:24 130 [ScientificCalculator.java] [INFO] ScientificCalculator [POWER] - 10.0, 2.0
+21/Mar/2023:15:40:24 131 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - POWER] - 100.0
+21/Mar/2023:15:40:24 135 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 2.718281828459045
+21/Mar/2023:15:40:24 138 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 1.0
+21/Mar/2023:15:40:24 141 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 1.0
+21/Mar/2023:15:40:24 142 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 0.0
+21/Mar/2023:15:40:24 143 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 2.0
+21/Mar/2023:15:40:24 144 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 0.6931471805599453
+21/Mar/2023:15:40:24 144 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 4.0
+21/Mar/2023:15:40:24 145 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 1.3862943611198906
+21/Mar/2023:15:40:24 147 [ScientificCalculator.java] [INFO] ScientificCalculator [LOG] - 10.0
+21/Mar/2023:15:40:24 148 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - LOG] - 2.302585092994046
+21/Mar/2023:15:40:24 150 [ScientificCalculator.java] [INFO] ScientificCalculator [FACTORIAL] - 0
+21/Mar/2023:15:40:24 152 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACTORIAL] - 1
+21/Mar/2023:15:40:24 152 [ScientificCalculator.java] [INFO] ScientificCalculator [FACTORIAL] - 1
+21/Mar/2023:15:40:24 154 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACTORIAL] - 1
+21/Mar/2023:15:40:24 155 [ScientificCalculator.java] [INFO] ScientificCalculator [FACTORIAL] - 3
+21/Mar/2023:15:40:24 156 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACTORIAL] - 6
+21/Mar/2023:15:40:24 157 [ScientificCalculator.java] [INFO] ScientificCalculator [FACTORIAL] - 4
+21/Mar/2023:15:40:24 158 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACTORIAL] - 24
+21/Mar/2023:15:40:24 159 [ScientificCalculator.java] [INFO] ScientificCalculator [FACTORIAL] - 6
+21/Mar/2023:15:40:24 160 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - FACTORIAL] - 720
+21/Mar/2023:15:40:24 162 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 4.0
+21/Mar/2023:15:40:24 164 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 2.0
+21/Mar/2023:15:40:24 165 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 9.0
+21/Mar/2023:15:40:24 166 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 3.0
+21/Mar/2023:15:40:24 167 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 16.0
+21/Mar/2023:15:40:24 168 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 4.0
+21/Mar/2023:15:40:24 169 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 25.0
+21/Mar/2023:15:40:24 170 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 5.0
+21/Mar/2023:15:40:24 170 [ScientificCalculator.java] [INFO] ScientificCalculator [SQRT] - 36.0
+21/Mar/2023:15:40:24 171 [ScientificCalculator.java] [INFO] ScientificCalculator [RESULT - SQRT] - 6.0
