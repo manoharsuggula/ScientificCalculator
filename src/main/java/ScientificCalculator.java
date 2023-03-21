@@ -1,8 +1,11 @@
 import java.util.Scanner;
 import java.lang.Math;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 public class ScientificCalculator {
 
+    private static Logger logger = LogManager.getLogger(ScientificCalculator.class);
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int choice;
@@ -73,18 +76,31 @@ public class ScientificCalculator {
     }
 
     public static double squareRoot(double num){
-        return Math.sqrt(num);
+        double ans = Math.sqrt(num);
+        logger.info("[SQRT] - " + num);
+        logger.info("[RESULT - SQRT] - " + ans);
+        return ans;
     }
 
     public static double naturalLogarithm(double num){
-        return Math.log(num);
+        double ans = Math.log(num);
+        logger.info("[LOG] - " + num);
+        logger.info("[RESULT - LOG] - " + ans);
+        return ans;
     }
     public static int factorial(int num){
-        if(num == 0 || num == 1)
-            return 1;
-        return num*factorial(num-1);
+        int fact = 1;
+        for (int i = 2; i <= num; i++) {
+                fact *= i;
+        }
+        logger.info("[FACTORIAL] - " + num);
+        logger.info("[RESULT - FACTORIAL] - " + fact);
+        return fact;
     }
     public static double power(double x, double b){
-        return Math.pow(x, b);
+        double ans = Math.pow(x, b);
+        logger.info("[POWER] - " + x + ", " + b);
+        logger.info("[RESULT - POWER] - " + ans);
+        return ans;
     }
 }
