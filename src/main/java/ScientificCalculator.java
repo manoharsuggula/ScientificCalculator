@@ -80,7 +80,7 @@ public class ScientificCalculator {
         if(num<0)
         {
             logger.error("[ERROR] - Factorial of -ve number not defined.");
-            return -1;
+            return -1.0;
         }
         double ans = Math.sqrt(num);
         logger.info("[RESULT - SQRT] - " + ans);
@@ -92,12 +92,12 @@ public class ScientificCalculator {
         if(num == 0)
         {
             logger.error("[ERROR] - Loagithm of 0 not defined.");
-            return -1;
+            return -1.0;
         }
         if(num < 0)
         {
             logger.error("[ERROR] - Loagithm of -ve not defined.");
-            return -1;
+            return -1.0;
         }
         double ans = Math.log(num);
         logger.info("[RESULT - LOG] - " + ans);
@@ -127,7 +127,7 @@ public class ScientificCalculator {
         if(x == 0 && b == 0)
         {
             logger.error("[ERROR] - 0 power 0 is not defined.");
-            return -1;
+            return -1.0;
         }
         double ans = Math.pow(x, b);
         logger.info("[RESULT - POWER] - " + ans);
