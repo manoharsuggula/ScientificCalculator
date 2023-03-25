@@ -76,30 +76,60 @@ public class ScientificCalculator {
     }
 
     public static double squareRoot(double num){
-        double ans = Math.sqrt(num);
         logger.info("[SQRT] - " + num);
+        if(num<0)
+        {
+            logger.error("[ERROR] - Factorial of -ve number not defined.");
+            return -1;
+        }
+        double ans = Math.sqrt(num);
         logger.info("[RESULT - SQRT] - " + ans);
         return ans;
     }
 
     public static double naturalLogarithm(double num){
-        double ans = Math.log(num);
         logger.info("[LOG] - " + num);
+        if(num == 0)
+        {
+            logger.error("[ERROR] - Loagithm of 0 not defined.");
+            return -1;
+        }
+        if(num < 0)
+        {
+            logger.error("[ERROR] - Loagithm of -ve not defined.");
+            return -1;
+        }
+        double ans = Math.log(num);
         logger.info("[RESULT - LOG] - " + ans);
         return ans;
     }
     public static int factorial(int num){
+        logger.info("[FACTORIAL] - " + num);
+        if(num < 0)
+        {
+            logger.error("[ERROR] - Factorial of -ve not defined.");
+            return -1;
+        }
+        if(num == 0 || num == 1)
+        {
+            logger.info("[RESULT - FACTORIAL] - 1");
+            return 1;
+        }
         int fact = 1;
         for (int i = 2; i <= num; i++) {
                 fact *= i;
         }
-        logger.info("[FACTORIAL] - " + num);
         logger.info("[RESULT - FACTORIAL] - " + fact);
         return fact;
     }
     public static double power(double x, double b){
-        double ans = Math.pow(x, b);
         logger.info("[POWER] - " + x + ", " + b);
+        if(x == 0 && b == 0)
+        {
+            logger.error("[ERROR] - 0 power 0 is not defined.");
+            return -1;
+        }
+        double ans = Math.pow(x, b);
         logger.info("[RESULT - POWER] - " + ans);
         return ans;
     }
